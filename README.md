@@ -8,7 +8,7 @@
   </a>
 <h3 align="center">Inteligencia artificial avanzada para la ciencia de datos II</h3>
   <p align="center">
-        Tania Sayuri Guizado Hernández | A01640092 | Grupo 102
+        Tania Sayuri Guizado Hernández | A01640092 | Grupo 502
 </div>
 
 ### Construido con:

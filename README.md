@@ -175,7 +175,7 @@
         <tr>
             <td>Puede integrar una interfaz de lenguaje natural en audio o voz a una aplicación haciendo uso de APIs</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning">- Técnicas y arquitecturas de deep learning</a> <br>
+              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning">- Herramientas para el procesamiento del lenguaje natural</a> <br>
             </td>
         </tr>
         <tr>

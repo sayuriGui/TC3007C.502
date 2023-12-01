@@ -21,25 +21,25 @@
 </div>
 
 ## Big Data
-- [Streaming de datos ](https://github.com/sayuriGui)
-- [Momento de Retroalimentación: Módulo 1 Utilización, procesamiento y visualización de grandes volúmenes de datos (Portafolio Análisis) ](https://github.com/sayuriGui) 
-- [Tipos complejos cassandra: set, list, map ](https://github.com/sayuriGui) 
+- [Streaming de datos](https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/streaming_A01640092.dbc)
+- [Momento de Retroalimentación: Módulo 1 Utilización, procesamiento y visualización de grandes volúmenes de datos (Portafolio Análisis)](https://github.com/sayuriGui/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis)) 
+- [Tipos complejos cassandra: set, list, map](https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/A01640092_tiposComplejosCassandra.pdf) 
 
 
 ## Técnicas y arquitecturas de deep learning.
-- [Actividad Redes Neuronales Profundas ](https://github.com/sayuriGui)
-- [Actividad en Clase Transfer Learning  ](https://github.com/sayuriGui) 
-- [Actividad RNN](https://github.com/sayuriGui) 
+- [Actividad Redes Neuronales Profundas ](https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20Redes%20Neuronales%20Profundas)
+- [Actividad en Clase Transfer Learning  ](https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20en%20Clase%20Transfer%20Learning)
+- [Actividad RNN](https://github.com/sayuriGui/TC3007C.502/tree/main/T%C3%A9cnicas%20y%20arquitecturas%20de%20deep%20learning/Actividad%20RNN) 
 
 ## Herramientas para el procesamiento del lenguaje natural
-- [Actividad NLP - 1.0 - Creación de Diccionario ](https://github.com/sayuriGui)
-- [Actividad NLP - 2.0 - Aplicación de análisis de sentimientos  ](https://github.com/sayuriGui) 
-- [Entrenamiento de un transformer para Q&A](https://github.com/sayuriGui) 
+- [Actividad NLP - 1.0 - Creación de Diccionario ](https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Actividad%20NLP%20-%201.0%20-%20Creaci%C3%B3n%20de%20Diccionario)
+- [Actividad NLP - 2.0 - Aplicación de análisis de sentimientos  ](https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/Actividad%20NLP%20-%202.0%20-%20Aplicaci%C3%B3n%20de%20an%C3%A1lisis%20de%20sentimientos) 
+- [Entrenamiento de un transformer para Q&A](https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural/EntrenamientoTransformer) 
 
 ## Estadística avanzada para la ciencia de datos
-- [Act 1. Regresion lineal simple/Multiple ](https://github.com/sayuriGui)
-- [Act 2. Multicolinealidad  ](https://github.com/sayuriGui) 
-- [Act 3. Series de tiempo](https://github.com/sayuriGui) 
+- [Act 1. Regresion lineal simple/Multiple ](https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%201.%20Regresion%20lineal%20simpleMultiple)
+- [Act 2. Multicolinealidad  ](https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%202.%20Multicolinealidad) 
+- [Act 3. Series de tiempo](https://github.com/sayuriGui/TC3007C.502/tree/main/Estad%C3%ADstica%20avanzada%20para%20la%20ciencia%20de%20datos/Act%203.%20Series%20de%20tiempo) 
 
 
 ## Evidencia 1. Portafolio de análisis
@@ -59,16 +59,26 @@
             <td rowspan="8">Portafolio de análisis</td>
             <td rowspan="5">SMA0104C Análisis de información</td>
             <td>Trabaja con grandes volúmenes de datos</td>
-            <td>Si</td>
+            <td align="center">
+              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/streaming_A01640092.dbc">- Streaming de datos</a> <br>
+              <a href="https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Problemas%20de%20clasificaci%C3%B3n](https://github.com/sayuriGui/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis))">- Momento de Retroalimentación</a> <br>
+            </td>
             <td rowspan="3">1. Big Data.</td>
         </tr>
         <tr>
             <td>Procesa grandes volúmenes de datos de manera eficiente</td>
-            <td>Si</td>
+            <td align="center">
+              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/streaming_A01640092.dbc">- Streaming de datos</a> <br>
+              <a href="https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Problemas%20de%20clasificaci%C3%B3n](https://github.com/sayuriGui/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis))">- Momento de Retroalimentación</a> <br>
+            </td> 
         </tr>
         <tr>
             <td>Genera tableros útiles y correctos que apoyen a la toma de decisiones</td>
-            <td>Si</td>
+            <td align="center">
+              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/streaming_A01640092.dbc">- Streaming de datos</a> <br>
+              <a href="https://github.com/sayuriGui/inteligencia-artificial/tree/main/Aprendizaje%20m%C3%A1quina%20(autom%C3%A1tico)/Problemas%20de%20clasificaci%C3%B3n](https://github.com/sayuriGui/TC3007C.502/tree/main/Big%20Data/Momento%20de%20Retroalimentaci%C3%B3n%20M%C3%B3dulo%201%20Utilizaci%C3%B3n%2C%20procesamiento%20y%20visualizaci%C3%B3n%20de%20grandes%20vol%C3%BAmenes%20de%20datos%20(Portafolio%20An%C3%A1lisis))">- Momento de Retroalimentación</a> <br>
+              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Big%20Data/A01640092_tiposComplejosCassandra.pdf">- Tipos complejos cassandra: set, list, map</a>
+            </td> 
         </tr>
         <tr>
             <td>Mide correctamente el desempeño del modelo y sus métricas son correctas</td>

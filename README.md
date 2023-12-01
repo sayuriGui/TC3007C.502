@@ -175,7 +175,7 @@
         <tr>
             <td>Puede integrar una interfaz de lenguaje natural en audio o voz a una aplicación haciendo uso de APIs</td>
             <td align="center">
-              <a href="https://github.com/sayuriGui/TC3007C.502/new/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural">- Herramientas para el procesamiento del lenguaje natural</a> <br>
+              <a href="https://github.com/sayuriGui/TC3007C.502/tree/main/Herramientas%20para%20el%20procesamiento%20del%20lenguaje%20natural">- Herramientas para el procesamiento del lenguaje natural</a> <br>
             </td>
         </tr>
         <tr>

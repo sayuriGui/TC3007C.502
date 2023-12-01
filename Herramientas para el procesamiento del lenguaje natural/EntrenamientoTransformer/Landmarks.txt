@@ -1,0 +1,3 @@
+The mechanism of detecting the famous human-made sculptures, buildings, and monuments inside an image is defined as Landmark Detection. You can simply compare it with the famous application of Google known as Google Landmark Detection, which is used by Google Maps.
+
+At the end of this blog, you will be able to create your own landmark detector like Google using the Keras library of Deep learning.

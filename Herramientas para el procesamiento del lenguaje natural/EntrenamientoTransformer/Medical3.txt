@@ -1,0 +1,13 @@
+When working with CT, MRI, and other types of scans, segmentation generally works by taking information from the background image data and using it to generate a mask. Depending on the task, users may work on their scans in 2D or 3D. There are many different tools and algorithms available in segmentation software, for example fully manual options to paint on the data, or semi-automated operations such as thresholding and region growing. Applications are also available for cardiovascular image segmentation, with particular options for working with different heart cases.
+
+For many cases using medical data, it may only be necessary to use a few segmentation tools. As previously noted, studying the placement of medical devices can involve a few steps to segment regions of interest in a bone, which can often be automated using scripts or AI techniques. However, for certain projects, especially those that deal with unusual pathologies or complex traumas, more time and a wider range of software features may be needed to create the required segmentation result.
+
+To this end, in software like Synopsys Simpleware, some of the image segmentation tools available to users include:
+
+    Paint/unpaint
+    Threshold
+    Flood fill
+    Interpolation
+    Split regions
+    Boolean operations
+

@@ -100,16 +100,22 @@
         <tr>
             <td rowspan="3">SEG0403B Resuelve situaciones...</td>
             <td>Verifica que los datos estén anonimizados para no violar normas o leyes de privacidad de la información</td>
-            <td>Si</td>
+            <td align="center">
+              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Reporte_Equipo3.pdf">- Reporte Reto</a> 
+            </td> 
             <td rowspan="3">Reto</td>
         </tr>
         <tr>
             <td>Especifica el proceso o estándar a seguir para validar el manejo de los datos y garantizar que solo el equipo tenga acceso a ellos en cumplimiento con las normativas.</td>
-            <td>Si</td>
+            <td align="center">
+              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Reporte_Equipo3.pdf">- Reporte Reto</a> 
+            </td> 
         </tr>
         <tr>
             <td>Presentar registros claros sobre el seguimiento de proceso y las autorizaciones para tener acceso a los datos</td>
-            <td>Si</td>
+            <td align="center">
+              <a href="https://github.com/sayuriGui/TC3007C.502/blob/main/Reporte_Equipo3.pdf">- Reporte Reto</a> 
+            </td> 
         </tr>
     </tbody>
 </table>
